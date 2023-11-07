@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RupeeConverter/static/css/main.073c9b0a.css",
+    "main.js": "/RupeeConverter/static/js/main.ef538c5f.js",
+    "static/js/787.97a945da.chunk.js": "/RupeeConverter/static/js/787.97a945da.chunk.js",
+    "index.html": "/RupeeConverter/index.html",
+    "main.073c9b0a.css.map": "/RupeeConverter/static/css/main.073c9b0a.css.map",
+    "main.ef538c5f.js.map": "/RupeeConverter/static/js/main.ef538c5f.js.map",
+    "787.97a945da.chunk.js.map": "/RupeeConverter/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ef538c5f.js"
+  ]
+}
